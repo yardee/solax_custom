@@ -1,0 +1,11 @@
+{
+  "domain": "solax_custom",
+  "name": "SolaX Power custom",
+  "version": "0.1.0",
+  "documentation": "https://www.home-assistant.io/integrations/solax",
+  "requirements": [],
+  "codeowners": ["Michal Base"],
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "loggers": ["solax_custom"]
+}
