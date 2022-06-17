@@ -77,7 +77,7 @@ class X3HybridG4(InverterPost):
         # "Total Consumption Resets": (70, ""),
         "Today's PV Energy": (70, "kWh", div10),
         "Total Battery Charge Energy": (87, "kWh", div10),
-        "Total Feed-in Energy": (86, "kWh", div10),
+        "Total Feed-in Energy": (86, "kWh", div100),
         "Total Consumption": (88, "kWh", div10),
         "Total PV Energy Resets": (90, ""),
         "EPS Total Energy": (110, "kWh", eps_total_energy),
