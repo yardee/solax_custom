@@ -1,7 +1,7 @@
 {
   "domain": "solax_custom",
   "name": "SolaX Power custom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "documentation": "https://www.home-assistant.io/integrations/solax",
   "requirements": [],
   "codeowners": ["Michal Base"],
