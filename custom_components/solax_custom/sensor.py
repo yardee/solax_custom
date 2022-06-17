@@ -22,7 +22,7 @@ from homeassistant.helpers.event import async_track_time_interval
 from .const import DOMAIN, MANUFACTURER
 
 DEFAULT_PORT = 80
-SCAN_INTERVAL = timedelta(seconds=30)
+SCAN_INTERVAL = timedelta(seconds=2)
 
 
 async def async_setup_entry(
